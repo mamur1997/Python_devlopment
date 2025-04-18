@@ -14,6 +14,6 @@ Atamalar={'string':'Matn',
           'for':'Sikl operator',
           'range':'listga royhat qoshish'
           }
-Kalit=input('Kalit sozni kiriting: ')
+Kalit=input('Kalit soz kiriting: ').lower()
 print(Atamalar.get(Kalit,"Mavjud emas"))
 
