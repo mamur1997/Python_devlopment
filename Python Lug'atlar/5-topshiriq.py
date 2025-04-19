@@ -1,7 +1,8 @@
         #Davlatlar va ularning poytaxtlari lug'atini tuzing.
  #Avval lug'atdagi davlatlarni, keyin poytaxtlarni alohida-alohida,
- #alifbo ketma-ketligida konsolga chiqaring
-
+ #alifbo ketma-ketligida konsolga chiqaring 
+ 
+ 
 Davlatlar={'Uzbekiston':'Tashkent',
           'Angliya':'London',
           'Fransiya':'Parij',
