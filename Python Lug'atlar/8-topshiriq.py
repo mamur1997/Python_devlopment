@@ -1,4 +1,4 @@
-    #Adabiyot (ilm-fan, san'at, internet) olamidagi 4 ta mashxur
+ #Adabiyot (ilm-fan, san'at, internet) olamidagi 4 ta mashxur
  #shaxslar haqidagi ma'lumotlarni lug'at ko'rinishida saqlang. 
  #Lug'atlarni bitta ro'yxatga joylang, 
  #va har bir shaxs haqidagi ma'lumotni konsolga chiqaring.
