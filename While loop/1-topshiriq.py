@@ -1,0 +1,1 @@
+savol="Istalgan son kiriting? Dasturni toxtatish uchun exit deb yozing \n: "  
