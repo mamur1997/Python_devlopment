@@ -23,4 +23,4 @@ Men={
     'Tugilgan_yili':'1997-yil',
     'Manzil':'Chortoq',   
     }
-print(f"Mening ismim: {Men['Ism']} {Men['Tugilgan_yili']} {Men['Manzil']} da tugilganman")print(f"Mening ismim: {Men['Ism']} {Men['Tugilgan_yili']} {Men['Manzil']} da tugilganman.")
+print(f"Mening ismim: {Men['Ism']} {Men['Tugilgan_yili']} {Men['Manzil']} da tugilganman!")
