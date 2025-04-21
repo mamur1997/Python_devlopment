@@ -26,5 +26,5 @@ if kirit in Davlatlar:
     print(f"Hududi: {info['Hududi']}"
           f"\nAholisi: {info['Aholisi']}"
           f"\nPul birligi: {info['Pul birligi']}")
-else:print(f"Bizda {kirit} davlati mavju emas")       
+else:print(f"Bizda {kirit} davlati mavju emas.")       
 
