@@ -30,7 +30,7 @@ Buyuklar=[Adabiyot, Ilm_fan, Sanat, Internet]
 for nom in Buyuklar:
         ismlar=nom['ismi']
         asar=nom['asar']
-        print(f"\n{ismlar} ning mashxur asarlari:")
+        print(f"\n{ismlar} ning mashxur asarlari: ")
         for i in asar:
             print(f"{i}")
 

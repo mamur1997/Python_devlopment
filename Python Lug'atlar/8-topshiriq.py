@@ -26,6 +26,6 @@ Internet={'ismi':'Stive Jobs',
 Buyuklar=[Adabiyot, Ilm_fan, Sanat, Internet]
 for nom in Buyuklar:
     print(f"{nom['ismi']} {nom['t-yil']}-yilda {nom['t-shahri']}"
-          f"da tavallud topgan. {nom['umri']}-yil umr korgan."
+          f"da tavallud topgan. {nom['umri']}-yil umr korgan"
           ) 
     
