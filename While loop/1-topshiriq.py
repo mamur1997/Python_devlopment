@@ -1,7 +1,12 @@
+          #Muzeyga chipta narhi foydalanuvchining yoshiga bog'liq:
+    #7 dan yoshlarga - 2000 so'm, 7-18 gacha 3000 so'm,
+    #18-65 gacha 10000 so'm, 65 dan kattalarga bepul.
+    #Shunday while tsikl yozingki, dastur foydalanuvchi yoshini
+    #so'rasin va chipta narhini chiqarsin. Foydalanuvchi exit yoki
+    #quit deb yozganda dastur to'xtasin (ikkita shartni ham tekshiring).
 
-
-print('Chiptalar narxi: \n 0-7: 2000 so`m,\n 7-18 3000 so`m,\n'
-      ' 18-65: 10000 so`m \n 65+ : Tekin'
+print('Chiptalar narxi: \n 0-7: 10000 so`m,\n 7-18 20000 so`m,\n'
+      ' 18-65: 300000 so`m \n 65+ : Tekin'
       )
 savol= "Yoshingizni kiriting: "
 qiymat=True
