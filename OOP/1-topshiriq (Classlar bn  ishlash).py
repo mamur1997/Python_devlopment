@@ -47,7 +47,7 @@ car1=Avtosalon('Yangi mashina bozori')
 car1.add_car(avto1)
 car1.add_car(avto2)
 car1.add_car(avto3)
-car1.add_car(avto4)
+
 
 print(car1.get_cars())
 
