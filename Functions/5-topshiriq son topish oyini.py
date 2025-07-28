@@ -53,7 +53,7 @@ def son_top1(x):
         if sorash=='yoq':
              qiymat=False
     return None
-son_top1(10)            
+son_top1(100)            
             
             
             
